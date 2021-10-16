@@ -14,7 +14,8 @@ body {
     font-size: 100%;
     line-height: 1.5;
     color: #555;
-    font-family: 'Nunito Sans', sans-serif
+    font-family: 'Noto Sans Mono',
+        monospace;
 }
 
 article,
@@ -4852,7 +4853,8 @@ a img {
     text-align: center;
     color: #fff;
     position: absolute;
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Noto Sans Mono',
+        monospace;
     width: 80%;
     top: 50%;
     left: 50%;
